@@ -1,0 +1,6 @@
+{
+  "name": "CreatorLens",
+  "description": "See it before your viewers do — preview and optimize YouTube titles, thumbnails, descriptions, and chapters across Phone, Desktop, and TV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
